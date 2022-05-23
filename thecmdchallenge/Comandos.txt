@@ -1,0 +1,21 @@
+$ cd thecmdchallenge/
+$pwd
+$ls -a
+$ls -R
+$clear
+$ cd small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/
+$ cat trophy.txt
+$ cd ../../../../
+$ls * .js
+$ cd funcode/the-most-funny/
+$ mkdir not-that-funny
+$ cd ../../
+$ cd boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/
+$ cp the-mostboring-text.txt lol.txt
+$ cd ../../../../
+$ cd funcode/
+$ mv kids.jpg images/hello/
+$ rm -f -r small-name/
+$ cat funcode/the-most-funny/lol/the-ultimate-joke.txt
+$ rm -r boringfolder/
+$ vi kamehameha/dragon-ball-jokes.md 
